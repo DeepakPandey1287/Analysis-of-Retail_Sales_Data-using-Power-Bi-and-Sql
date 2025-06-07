@@ -38,28 +38,28 @@ CREATE TABLE SalesOrderDetails (
     FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
 );
 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Customers.csv'
+LOAD DATA INFILE 'Customers.csv'
 INTO TABLE Customers
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
 (CustomerID, CustomerName, Email, Phone, City);
 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/Products.csv'
+LOAD DATA INFILE 'Products.csv'
 INTO TABLE Products
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
 (ProductID, ProductName, Category, Price, StockQuantity);
 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/SalesOrders.csv'
+LOAD DATA INFILE 'salesOrders.csv'
 INTO TABLE SalesOrders
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
 (OrderID, CustomerID, OrderDate, TotalAmount);
 
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/SalesOrderDetails.csv'
+LOAD DATA INFILE 'SalesOrderDetails.csv'
 INTO TABLE SalesOrderDetails
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
