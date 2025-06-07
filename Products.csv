@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Price,StockQuantity
+1,Product1,Electronics,253.07,273
+2,Product2,Electronics,128.98,149
+3,Product3,Accessories,130.32,478
+4,Product4,Home Appliances,184.95,426
+5,Product5,Home Appliances,387.03,164
+6,Product6,Home Appliances,397.85,166
+7,Product7,Accessories,295.69,296
+8,Product8,Accessories,229.77,78
+9,Product9,Accessories,289.48,267
+10,Product10,Home Appliances,382.4,474
+11,Product11,Electronics,332.73,537
+12,Product12,Accessories,167.15,481
+13,Product13,Electronics,495.67,270
+14,Product14,Accessories,358.37,65
+15,Product15,Home Appliances,332.26,303
+16,Product16,Electronics,549.14,517
+17,Product17,Electronics,229.14,243
+18,Product18,Home Appliances,191.47,298
+19,Product19,Accessories,150.65,163
+20,Product20,Accessories,371.12,260
+21,Product21,Electronics,319.14,201
+22,Product22,Electronics,197.82,522
+23,Product23,Accessories,190.26,543
+24,Product24,Home Appliances,457.72,491
+25,Product25,Home Appliances,98.53,65
+26,Product26,Home Appliances,424.78,346
+27,Product27,Accessories,439.8,347
+28,Product28,Accessories,151.19,344
+29,Product29,Electronics,505.14,196
+30,Product30,Electronics,311.16,60
+31,Product31,Home Appliances,347.23,536
+32,Product32,Home Appliances,290.77,318
+33,Product33,Electronics,291.7,419
+34,Product34,Home Appliances,97.87,236
+35,Product35,Accessories,207.44,485
+36,Product36,Home Appliances,184.28,203
+37,Product37,Electronics,99.32,391
+38,Product38,Home Appliances,369.42,196
+39,Product39,Accessories,472.95,296
+40,Product40,Electronics,315.4,162
+41,Product41,Home Appliances,148.99,337
+42,Product42,Accessories,81.91,478
+43,Product43,Electronics,223.29,69
+44,Product44,Electronics,385.24,74
+45,Product45,Accessories,395.67,87
+46,Product46,Home Appliances,347.42,377
+47,Product47,Electronics,325.32,172
+48,Product48,Home Appliances,457.77,330
+49,Product49,Home Appliances,190.71,312
+50,Product50,Electronics,246.92,180
+51,Product51,Electronics,402.37,217
+52,Product52,Home Appliances,505.48,81
+53,Product53,Electronics,400.94,379
+54,Product54,Accessories,57.97,279
+55,Product55,Electronics,180.77,449
+56,Product56,Accessories,86.6,189
+57,Product57,Electronics,164.96,265
+58,Product58,Electronics,236.84,517
+59,Product59,Home Appliances,221.31,262
+60,Product60,Electronics,150.83,397
+61,Product61,Accessories,385.0,271
+62,Product62,Electronics,416.14,515
+63,Product63,Electronics,488.54,338
+64,Product64,Accessories,133.25,140
+65,Product65,Home Appliances,78.67,235
+66,Product66,Accessories,125.02,106
+67,Product67,Accessories,351.33,376
+68,Product68,Home Appliances,160.14,511
+69,Product69,Electronics,57.75,343
+70,Product70,Home Appliances,134.94,91
+71,Product71,Electronics,211.71,266
+72,Product72,Electronics,200.32,317
+73,Product73,Electronics,401.53,446
+74,Product74,Home Appliances,477.17,446
+75,Product75,Home Appliances,258.84,243
+76,Product76,Home Appliances,176.8,173
+77,Product77,Home Appliances,325.72,269
+78,Product78,Electronics,513.88,159
+79,Product79,Accessories,495.01,219
+80,Product80,Home Appliances,429.84,426
+81,Product81,Accessories,537.05,550
+82,Product82,Accessories,274.66,501
+83,Product83,Electronics,84.21,360
+84,Product84,Electronics,380.58,76
+85,Product85,Home Appliances,153.15,193
+86,Product86,Electronics,112.14,270
+87,Product87,Accessories,376.73,352
+88,Product88,Electronics,216.62,316
+89,Product89,Accessories,295.77,167
+90,Product90,Accessories,496.37,540
+91,Product91,Accessories,319.79,386
+92,Product92,Accessories,461.5,390
+93,Product93,Electronics,431.45,215
+94,Product94,Accessories,234.4,442
+95,Product95,Home Appliances,254.23,410
+96,Product96,Accessories,114.29,166
+97,Product97,Accessories,178.82,168
+98,Product98,Electronics,450.17,341
+99,Product99,Electronics,549.96,535
+100,Product100,Electronics,427.06,387
