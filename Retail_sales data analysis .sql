@@ -1,6 +1,5 @@
 Create database sales_db;
 use sales_db;
--- Customers Table
 CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY,
     CustomerName VARCHAR(50),
@@ -9,7 +8,6 @@ CREATE TABLE Customers (
     City VARCHAR(30)
 );
 
--- Products Table
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY,
     ProductName VARCHAR(50),
@@ -18,7 +16,6 @@ CREATE TABLE Products (
     StockQuantity INT
 );
 
--- SalesOrders Table
 CREATE TABLE SalesOrders (
     OrderID INT PRIMARY KEY,
     CustomerID INT,
@@ -27,7 +24,6 @@ CREATE TABLE SalesOrders (
     FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
 );
 
--- SalesOrderDetails Table
 CREATE TABLE SalesOrderDetails (
     OrderDetailID INT PRIMARY KEY,
     OrderID INT,
